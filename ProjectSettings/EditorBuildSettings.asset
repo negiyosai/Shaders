@@ -8,7 +8,6 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/Water And UI/Scenes/Main.unity
-    guid: 4d29adc27637eee46b8b335877b99375
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7f0eaa38378fe9e4298c9f74fb46ac93,
+      type: 2}
